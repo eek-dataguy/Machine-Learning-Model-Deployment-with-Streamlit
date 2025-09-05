@@ -11,6 +11,12 @@
 6. Customize The Layout
 7. Captonse Project
 ## III - Caching
+1. Basic of caching in Streamlit
+2. Code - Basic of caching
+3. Refactore our dashborad with caching
+4. Advanced caching in Streamlit
+5. Capstone Project
+6. Improve our last capstone
 ## IV- Session State Management
 ## V - Multipage Application
 ## VI - Authenication
